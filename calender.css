@@ -1,0 +1,46 @@
+.calender{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+    background-image: url('./pexels-pixabay-206359\ \(1\).jpg'); 
+    ima
+    
+}
+.date , .day{
+
+    font-size: 2em;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+  
+
+.day{
+    font-size: 1.5em;
+    color: white;
+    font-weight: 700;
+}
+.date1{
+    color: greenyellow;
+    font-weight: 700;
+    font-size: 2em;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.other-month1{
+    color: greenyellow;
+    font-weight: 700;
+    font-size: 2em;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}

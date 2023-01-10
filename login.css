@@ -1,0 +1,32 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.login-form input{
+    font-size: 1.5em;
+    margin-top: 1em;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 500px
+
+}
+.loginform{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}       
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    font-size: 25px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
